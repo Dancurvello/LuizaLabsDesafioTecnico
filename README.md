@@ -55,6 +55,6 @@
 
 <p>
 Caso queira ver uma prévia de como é o projeto, 
-<a traget="_blank" href="[https://www.youtube.com/watch?v=6npR13NLj9E](https://www.youtube.com/watch?v=sA3TJZlYqRk)">link</a> 
+<a traget="_blank" href="https://www.youtube.com/watch?v=sA3TJZlYqRk">link</a> 
 para ver o vídeo demonstrativo no Youtube.
 </p>
