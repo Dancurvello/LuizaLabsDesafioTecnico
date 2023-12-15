@@ -15,6 +15,7 @@
   <li><a href="#descricao">Descrição do projeto</a></li>
   <li><a href="#tecnologias">Tecnologias usadas</a></li>
   <li><a href="#fluxo">Fluxo</a></li>
+  <li><a href="#endpoint">Endpoint</a></li>
   <li><a href="#requisitos">Requisitos necessários</a></li>
   <li><a href="#iniciarProjeto">Como iniciar o projeto</a></li>
   <li><a href="#consideracoes">Considerações Finais</a></li>
@@ -70,6 +71,13 @@ O frontend exibe os dados na página, completando o ciclo.
 CORS: O problema de CORS foi tratado utilizando a classe CorsConfig no pacote config.
 
 Banco de Dados: A configuração do banco de dados é tratada pela classe DatabaseConfig no pacote config.
+
+<a name="endpoint">
+<h1>Endpoint</h1>
+
+Endpoint da API:
+<br>
+http://localhost:8080/api/response
 
 <a name="requisitos">
 <h1>Requisitos Necessários</h1>
