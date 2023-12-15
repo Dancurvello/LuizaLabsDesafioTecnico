@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="/media/1.png" alt="" width="100%">
+<img src="/clientLogistica/src/assets/thumbdesafio.png" alt="" width="100%">
 
 <br>
 
