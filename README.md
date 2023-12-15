@@ -138,6 +138,8 @@ Execute npm run dev.
 <br>
 Abra seu navegador e vá para http://localhost:3000.
 A porta :3000 pode variar, certifique-se que a aplicação React está rodando na porta desejada.
+<br>
+Exemplo: http://localhost:5173
 
 
 
