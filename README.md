@@ -4,7 +4,7 @@
 
 <br>
 <h2>Demonstração em vídeo, ACESSE:</h2> <a traget="_blank" href="https://www.youtube.com/watch?v=sA3TJZlYqRk">https://www.youtube.com/watch?v=sA3TJZlYqRk</a>
-
+<br><br>
 <br>
 <img src="/clientLogistica/src/assets/thumbdesafio.png" alt="" width="100%">
 
