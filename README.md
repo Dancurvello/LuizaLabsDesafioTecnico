@@ -93,7 +93,7 @@ Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facil
 <h1>Inicie o projeto</h1>
 
 Clone o Repositório:
-Execute git clone https://github.com/seu-usuario/LuizaLabsDesafioTecnico.git.
+Execute git clone https://github.com/Dancurvello/LuizaLabsDesafioTecnico.git.
 
 Acesse a Pasta do Frontend:
 Navegue até LuizaLabsDesafioTecnico/clienteLogistica.
