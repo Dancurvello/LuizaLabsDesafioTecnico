@@ -92,29 +92,50 @@ Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facil
 <a name="iniciarProjeto">
 <h1>Inicie o projeto</h1>
 
-Clone o Repositório:
+**Clone o Repositório:**
+<br>
 Execute git clone https://github.com/Dancurvello/LuizaLabsDesafioTecnico.git.
+<br>
+<br>
 
-Acesse a Pasta do Frontend:
+**Acesse a Pasta do Frontend:**
+<br>
 Navegue até LuizaLabsDesafioTecnico/clienteLogistica.
+<br>
+<br>
 
-Instale as Dependências do React:
-
+**Instale as Dependências do React:**
+<br>
 Execute npm install.
+<br>
+<br>
 
-Acesse a Pasta do Backend:
+**Acesse a Pasta do Backend:**
+<br>
 Volte uma pasta para LuizaLabsDesafioTecnico/serverLogistica.
+<br>
+<br>
 
-Inicie o Backend com Maven:
+**Inicie o Backend com Maven:**
+<br>
 Execute mvn spring-boot:run.
+<br>
+<br>
 
-Acesse a Pasta do Frontend Novamente:
+**Acesse a Pasta do Frontend Novamente:**
+<br>
 Retorne para LuizaLabsDesafioTecnico/clienteLogistica.
+<br>
+<br>
 
-Inicie o Servidor de Desenvolvimento do Frontend:
+**Inicie o Servidor de Desenvolvimento do Frontend:**
+<br>
 Execute npm run dev.
+<br>
+<br>
 
-Acesse o Aplicativo:
+**Acesse o Aplicativo:**
+<br>
 Abra seu navegador e vá para http://localhost:3000.
 A porta :3000 pode variar, certifique-se que a aplicação React está rodando na porta desejada.
 
