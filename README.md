@@ -89,7 +89,7 @@ Maven:
 O Maven é utilizado para a construção e gerenciamento de dependências do projeto Java. Faça o download em https://maven.apache.org/download.cgi.
 Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facilitar o acesso aos comandos.
 
-<a name="iniciar projeto">
+<a name="iniciarProjeto">
 <h1>Inicie o projeto</h1>
 
 Clone o Repositório:
