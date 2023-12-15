@@ -71,13 +71,16 @@ O frontend exibe os dados na página, completando o ciclo.
 CORS: O problema de CORS foi tratado utilizando a classe CorsConfig no pacote config.
 
 Banco de Dados: A configuração do banco de dados é tratada pela classe DatabaseConfig no pacote config.
-
+<br>
+<br>
 <a name="endpoint">
 <h1>Endpoint</h1>
 
 Endpoint da API:
 <br>
 http://localhost:8080/api/response
+<br>
+<br>
 
 <a name="requisitos">
 <h1>Requisitos Necessários</h1>
