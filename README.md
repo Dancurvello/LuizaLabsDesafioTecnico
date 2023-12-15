@@ -3,6 +3,8 @@
 <h1 align="center">SISTEMA DE INTEGRAÇÃO | Desafio Técnico LuizaLabs</h1>
 
 <br>
+<h2>Demonstração em vídeo, ACESSE:</h2>
+<a traget="_blank" href="https://www.youtube.com/watch?v=sA3TJZlYqRk">https://www.youtube.com/watch?v=sA3TJZlYqRk</a>
 
 <img src="/clientLogistica/src/assets/thumbdesafio.png" alt="" width="100%">
 
@@ -12,7 +14,7 @@
 <ul>
   <li><a href="#descricao">Descrição do projeto</a></li>
   <li><a href="#tecnologias">Tecnologias usadas</a></li>
-  <li><a href="#fluxo">Considerações Finais</a></li>
+  <li><a href="#fluxo">Fluxo</a></li>
   <li><a href="#requisitos">Requisitos necessários</a></li>
   <li><a href="#iniciarProjeto">Como iniciar o projeto</a></li>
   <li><a href="#consideracoes">Considerações Finais</a></li>
@@ -75,16 +77,15 @@ Banco de Dados: A configuração do banco de dados é tratada pela classe Databa
 Antes de iniciar o projeto, certifique-se de ter os seguintes requisitos instalados em sua máquina:
 
 Node.js:
-
 Certifique-se de ter o Node.js instalado. Você pode baixá-lo em https://nodejs.org/.
+
 Git:
-
 O Git é necessário para clonar o repositório. Caso não tenha o Git instalado, faça o download em https://git-scm.com/.
+
 Java Development Kit (JDK):
-
 Instale o JDK para permitir a execução do backend em Java. Baixe-o em https://www.oracle.com/java/technologies/javase-downloads.html.
-Maven:
 
+Maven:
 O Maven é utilizado para a construção e gerenciamento de dependências do projeto Java. Faça o download em https://maven.apache.org/download.cgi.
 Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facilitar o acesso aos comandos.
 
@@ -92,30 +93,29 @@ Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facil
 <h1>Inicie o projeto</h1>
 
 Clone o Repositório:
-
 Execute git clone https://github.com/seu-usuario/LuizaLabsDesafioTecnico.git.
-Acesse a Pasta do Frontend:
 
+Acesse a Pasta do Frontend:
 Navegue até LuizaLabsDesafioTecnico/clienteLogistica.
+
 Instale as Dependências do React:
 
 Execute npm install.
+
 Acesse a Pasta do Backend:
-
 Volte uma pasta para LuizaLabsDesafioTecnico/serverLogistica.
+
 Inicie o Backend com Maven:
-
 Execute mvn spring-boot:run.
+
 Acesse a Pasta do Frontend Novamente:
-
 Retorne para LuizaLabsDesafioTecnico/clienteLogistica.
+
 Inicie o Servidor de Desenvolvimento do Frontend:
-
 Execute npm run dev.
+
 Acesse o Aplicativo:
-
 Abra seu navegador e vá para http://localhost:3000.
-
 A porta :3000 pode variar, certifique-se que a aplicação React está rodando na porta desejada.
 
 
