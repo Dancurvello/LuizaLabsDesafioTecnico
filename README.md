@@ -41,7 +41,7 @@
 ### Fontend:
 - [Javascript];
 - [ReactJS];
-- [Vite;
+- [Vite];
 - [React-Router-DOM]
 
 
