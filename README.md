@@ -19,6 +19,7 @@
   <li><a href="#requisitos">Requisitos necessários</a></li>
   <li><a href="#iniciarProjeto">Como iniciar o projeto</a></li>
   <li><a href="#consideracoes">Considerações Finais</a></li>
+  <li><a href="#melhorias">Melhorias</a></li>
 </ul>
 
 <br>
@@ -28,6 +29,8 @@
 
 <p>Sistema de integração que recebe um arquivo.txt envia via Api para ser manipulado e retorna via Api no formato Json.</p>
 <p>O Sistema possui funcionalidades de filtros por Id e Data.</p>
+<br>
+<p>Decidi também criar uma tela de upload de arquivos para o usuário, assim o usuário tem facilmente acesso as funcionalidades que ele precisa. Afinal todo usuário gosta de uma tela bonitinha pra interagir rs. Desenvolvi usando React.</p>
 
 
 <br>
@@ -165,3 +168,15 @@ Caso queira ver uma prévia de como é o projeto,
 para ver o vídeo demonstrativo no Youtube.
   <a traget="_blank" href="https://www.youtube.com/watch?v=sA3TJZlYqRk">https://www.youtube.com/watch?v=sA3TJZlYqRk</a>
 </p>
+
+
+<a name="melhorias">
+<h1>Próximas melhorias:</h1>
+
+- Documentação da API com Swagger
+- Containerizar a aplicação com Docker (fazendo)
+- Refatoração da API:
+      1 -
+      2 -
+      3 -
+ 
