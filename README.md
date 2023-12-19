@@ -150,10 +150,10 @@ Execute npm run dev.
 
 **Acesse o Aplicativo:**
 <br>
-Abra seu navegador e vá para http://localhost:3000.
-A porta :3000 pode variar, certifique-se que a aplicação React está rodando na porta desejada.
+Abra seu navegador e vá para http://localhost:5173
+A porta :5173 pode variar, certifique-se que a aplicação React está rodando na porta desejada (A porta 5173 é padrão VITE)
 <br>
-Exemplo: http://localhost:5173
+Exemplo: http://localhost:3000
 
 
 
