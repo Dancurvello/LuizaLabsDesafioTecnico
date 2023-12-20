@@ -198,9 +198,8 @@ para ver o vídeo demonstrativo no Youtube.
 <h1>Próximas melhorias:</h1>
 
 - Documentação da API com Swagger
-- Containerizar a aplicação com Docker (fazendo)
-- Refatoração da API:
-      1 -
-      2 -
-      3 -
+- Refatoração da API:<br>
+      1 - <br>
+      2 - <br>
+      3 - <br>
  
