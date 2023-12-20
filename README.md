@@ -91,9 +91,9 @@ http://localhost:8080/api/response
 <br>
   
 **Requisitos necessários:**
-
 <br>
 Deve-se ter o Docker instalado
+<br>
 <br>
 Passo 1: Rode o comando {git clone https://github.com/Dancurvello/LuizaLabsDesafioTecnico.git} onde você deseja clonar o repositório;
 <br>
