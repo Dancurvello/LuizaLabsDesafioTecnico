@@ -89,12 +89,18 @@ http://localhost:8080/api/response
 <a name="iniciarProjetodocker">
 <h1>Iniciar projeto com docker</h1>
 <br>
+  
 **Requisitos necessários:**
+
+<br>
 Deve-se ter o Docker instalado
 <br>
 Passo 1: Rode o comando {git clone https://github.com/Dancurvello/LuizaLabsDesafioTecnico.git} onde você deseja clonar o repositório;
+<br>
 Passo 2: Execute o comando {docker-compose build} no repositório clonado;
+<br>
 Passo 3: Execute o comando {docker-compose up} quando passo anterior estiver terminado;
+<br>
 
 
 
