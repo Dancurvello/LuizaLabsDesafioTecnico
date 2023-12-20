@@ -16,8 +16,9 @@
   <li><a href="#tecnologias">Tecnologias usadas</a></li>
   <li><a href="#fluxo">Fluxo</a></li>
   <li><a href="#endpoint">Endpoint</a></li>
+  <li><a href="#iniciarProjetodocker">Como iniciar o projeto com Docker</a></li>
   <li><a href="#requisitos">Requisitos necessários</a></li>
-  <li><a href="#iniciarProjeto">Como iniciar o projeto</a></li>
+  <li><a href="#iniciarProjetodefault">Como iniciar o projeto sem docker</a></li>
   <li><a href="#consideracoes">Considerações Finais</a></li>
   <li><a href="#melhorias">Melhorias</a></li>
 </ul>
@@ -82,6 +83,15 @@ Banco de Dados: A configuração do banco de dados é tratada pela classe Databa
 Endpoint da API:
 <br>
 http://localhost:8080/api/response
+<br>
+<br>
+
+<a name="iniciarProjetodocker">
+<h1>Iniciar projeto com docker</h1>
+<br>
+<h2>Requisitos necessários:</h2>
+Deve-se ter o Docker instalado
+
 <br>
 <br>
 
