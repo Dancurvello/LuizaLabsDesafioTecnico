@@ -101,6 +101,9 @@ Passo 2: Execute o comando { docker-compose build } no repositório clonado;
 <br>
 Passo 3: Execute o comando { docker-compose up } quando passo anterior estiver terminado;
 <br>
+Passo 4: Abra seu navegador e vá para http://localhost:5173
+<br>
+Pronto já deve está funcionando.
 
 
 
