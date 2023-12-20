@@ -17,7 +17,6 @@
   <li><a href="#fluxo">Fluxo</a></li>
   <li><a href="#endpoint">Endpoint</a></li>
   <li><a href="#iniciarProjetodocker">Como iniciar o projeto com Docker</a></li>
-  <li><a href="#requisitos">Requisitos necessários</a></li>
   <li><a href="#iniciarProjetodefault">Como iniciar o projeto sem docker</a></li>
   <li><a href="#consideracoes">Considerações Finais</a></li>
   <li><a href="#melhorias">Melhorias</a></li>
@@ -111,8 +110,10 @@ Pronto já deve está funcionando.
 <br>
 <br>
 
-<a name="requisitos">
-<h1>Requisitos Necessários</h1>
+<a name="iniciarProjetodeafult">
+<h1>Inicie o projeto sem Docker</h1>
+
+**Requisitos necessários:**
 
 Antes de iniciar o projeto, certifique-se de ter os seguintes requisitos instalados em sua máquina:
 
@@ -128,9 +129,6 @@ Instale o JDK para permitir a execução do backend em Java. Baixe-o em https://
 Maven:
 O Maven é utilizado para a construção e gerenciamento de dependências do projeto Java. Faça o download em https://maven.apache.org/download.cgi.
 Certifique-se de adicionar o Node.js e o Maven ao seu PATH do sistema para facilitar o acesso aos comandos.
-
-<a name="iniciarProjeto">
-<h1>Inicie o projeto</h1>
 
 **Clone o Repositório:**
 <br>
